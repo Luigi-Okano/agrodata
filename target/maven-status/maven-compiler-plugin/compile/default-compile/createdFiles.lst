@@ -1,0 +1,4 @@
+com/agrodata/api/model/Produtor.class
+com/agrodata/api/AgrodataApiApplication.class
+com/agrodata/api/repository/ProdutorRepository.class
+com/agrodata/api/controller/ProdutorController.class

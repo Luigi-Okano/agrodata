@@ -1,0 +1,4 @@
+/workspaces/agrodata/src/main/java/com/agrodata/api/controller/ProdutorController.java
+/workspaces/agrodata/src/main/java/com/agrodata/api/repository/ProdutorRepository.java
+/workspaces/agrodata/src/main/java/com/agrodata/api/model/Produtor.java
+/workspaces/agrodata/src/main/java/com/agrodata/api/AgrodataApiApplication.java
